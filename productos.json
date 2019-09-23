@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 4,
+      "nombre": "Pastel de Zanahoria",
+      "precio": "50"
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "id": 7,
+      "nombre": "torta de mango",
+      "precio": "60"
+    },
+    {
+      "id": 8,
+      "nombre": "torta de cocholate",
+      "precio": "150"
+    },
+    {
+      "id": 9,
+      "nombre": "trufas",
+      "precio": "10"
+    }
+  ]
+}
